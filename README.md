@@ -1,4 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
+<br/>
+<h4 align="center">안녕하세요 예비 프론트엔드 개발자입니다.</h4>
+
 </br></br>
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
