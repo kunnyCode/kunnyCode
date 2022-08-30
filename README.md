@@ -21,6 +21,7 @@
 <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=GitLab&logoColor=white"/> &nbsp 
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/> &nbsp 
+<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/> &nbsp 
 </br></br>
 
 
