@@ -13,6 +13,7 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white"/> &nbsp 
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> &nbsp
 </br></br>
 <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=GitLab&logoColor=white"/> &nbsp 
