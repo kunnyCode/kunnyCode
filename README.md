@@ -25,6 +25,8 @@
 </br></br>
 
 
+<h4 align="center"><a href=" https://www.notion.so/6c4b46e4e3a74f5ab5624872bba24663">✨자기소개 보기✨</a></h4>
+
 
 
 
